@@ -1,5 +1,8 @@
 # Analytics-AI
 
+[![GitHub license](https://img.shields.io/github/license/helblazer811/ManimMachineLearning)](https://github.com/helblazer811/ManimMachineLearning/blob/main/LICENSE.md)
+[![GitHub tag](https://img.shields.io/github/v/release/helblazer811/ManimMachineLearning)](https://img.shields.io/github/v/release/helblazer811/ManimMachineLearning)
+
 - [Analytics AI](#analyticsai)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
