@@ -1,4 +1,5 @@
-![image](https://github.com/gigDevelopment10/FusionAI/assets/84071291/9ff6a707-14e4-4f9b-9b8b-0f3e83a2a5bd)
+![image](https://github.com/gigDevelopment10/FusionAI/assets/84071291/67375f7d-9f21-48cc-9bbf-7525f686c58f)
+
 
 [![GitHub license](https://img.shields.io/github/license/helblazer811/ManimMachineLearning)](https://github.com/gigDevelopment10/Analytics-AI/blob/main/LICENSE.md)
 [![GitHub tag](https://img.shields.io/github/v/release/helblazer811/ManimMachineLearning)](https://img.shields.io/github/v/release/helblazer811/ManimMachineLearning)
