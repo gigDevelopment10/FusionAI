@@ -7,6 +7,7 @@
 - [Analytics AI](#analyticsai)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
+    - [Introduction](#introduction)
     - [Installation](#installation)
     - [First Neural Network](#first-neural-network)
   - [Guide](#guide)
@@ -21,6 +22,9 @@
   - [Citation](#citation)
  
   ## Table of Content
+
+  ## Introduction
+  Fusion-AI is a Machine Learning framework that architects an optimal model architechture for model.
 
   ## Getting Started
 
