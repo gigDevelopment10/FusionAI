@@ -1,4 +1,4 @@
-# Analytics-AI
+# FusionAI
 
 [![GitHub license](https://img.shields.io/github/license/helblazer811/ManimMachineLearning)](https://github.com/gigDevelopment10/Analytics-AI/blob/main/LICENSE.md)
 [![GitHub tag](https://img.shields.io/github/v/release/helblazer811/ManimMachineLearning)](https://img.shields.io/github/v/release/helblazer811/ManimMachineLearning)
