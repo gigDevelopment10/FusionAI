@@ -12,9 +12,7 @@ Contributor: [Zoya Jamadar](https://www.linkedin.com/in/zoya-jamadar-deepinai/)
   ## Table of Content
 
   ## Introduction
-     ### Fusion-AI: Accelerating Machine Learning Model Development with Adaptive Model Learning Methodologies
+  ### Fusion-AI: A Machine Learning Model Framework That Implements Adaptive Model Learning Methodologies
+  Welcome to Fusion-AI, a cutting-edge Machine Learning framework designed to revolutionize the way we approach model development. At the heart of Fusion-AI lies a sophisticated set of Adaptive Model Learning methodologies, carefully crafted to streamline and expedite the entire model development lifecycle.
 
-     Welcome to Fusion-AI, a cutting-edge Machine Learning framework designed to revolutionize the way we approach model development. At the heart of Fusion-AI lies a sophisticated set of Adaptive Model Learning methodologies, carefully crafted to streamline and expedite the entire model development lifecycle.
-
-  ## Getting Started
 
